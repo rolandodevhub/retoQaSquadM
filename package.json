@@ -1,0 +1,18 @@
+{
+  "name": "retoqacypress",
+  "version": "1.0.0",
+  "description": "Automatizacion QA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "qa",
+    "automation"
+  ],
+  "author": "rolando thielen",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.5.4"
+  }
+}
